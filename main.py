@@ -2,5 +2,5 @@
 
 
 # testing
-num = 237656
+num = int(input())
 print(sumOfDigits(num))
